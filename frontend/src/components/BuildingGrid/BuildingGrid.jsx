@@ -7,8 +7,6 @@ import '../../index.css'
 
 export default function BuildingGrid() {
 
-    console.log(buildingData)
-
     return (
         <div className={'buildingGrid'}>
             {buildingData.map((building) => (
