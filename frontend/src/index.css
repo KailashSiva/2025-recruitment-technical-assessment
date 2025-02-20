@@ -18,6 +18,8 @@ button {
 }
 
 .buildingCard {
-  height: 10rem;
-  border: 1px solid red;
+  height: 25rem;
+  border: 1px solid transparent;
+  border-radius: 1rem;
+
 }
